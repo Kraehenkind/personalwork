@@ -1,0 +1,32 @@
+#:kivy 2.2.1
+
+GameScreen:
+
+<UpperHalf>:
+    id: UpperHalf
+
+<HangMan>:
+    id: the_picture
+
+<MainMenue@Popup>:
+    id: mainMenue
+    size_hint: .5, .5
+    auto_dismiss: False
+    MenueContent:
+
+<MenueContent@GridLayout>:
+    rows: 5
+    Label:
+    Button: 
+        text: "New Game"
+        background_color: "blue"
+        on_press: app.root.startNewGame()
+    Button:
+        text: "Close Menue"
+        background_color: "blue"
+        on_press: app.root.menue.dismiss()
+    Label:
+    Button:
+        text: "Close App"
+        background_color: "blue"
+        on_press: app.stop()

@@ -1,0 +1,25 @@
+#:kivy 2.2.1
+
+WindowManager:
+
+<WindowManager>:
+    id: "manager"
+    MenueScreen:
+        name: "menue"
+    SecondTestScreen:
+        name: "second"
+
+<MenueScreen>:
+    id: "MenueScreen"
+    MenueGrid:
+    
+
+<SecondTestScreen>:
+    id: "SecondScreen"
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: 'Second Screen'
+        Button:
+            text: 'back'
+            on_press: app.root.current = "menue"
