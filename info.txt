@@ -1,0 +1,18 @@
+Eine Auswahl kleinerer Projekte, um meinen Wissenstand einschätzen zu können.
+Um den Fortschritt in den letzten 10 Monaten zu dokumentieren auch einige 
+Beispiele für den Weg.
+
+- Banking-Prog war eine erste Übung.
+- TKInter_Test mein erster GUI-Versuch.
+- datGame eine Umsetzung von "Hangman" in kivy
+- monster_manual ist work-in-progress, bei dem zunächst die DB für
+  eine geplant App erstellt wird. Dazu ist es auch eine Übung zu SSH 
+  und remote eine DB über Python zu verwalten.
+  
+Dazu findet sich noch ein Projekt das ich mit einem Kollegen aus der Umschulung
+anfing unter meinem github Profil. (Die Idee war nicht unsere, aber wir waren die
+einzigen, die wirklich an der Umsetzung interessiert waren. Daher wurde es nach 
+einiger Zeit von uns eingestellt)
+
+Weitere Beispiele zu meinem Kenntnisstand kann man auch unter
+https://www.codewars.com/users/Kraehenkind sehen
