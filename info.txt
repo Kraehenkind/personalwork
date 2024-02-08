@@ -12,7 +12,12 @@ Beispiele für den Weg.
 Dazu findet sich noch ein Projekt das ich mit einem Kollegen aus der Umschulung
 anfing unter meinem github Profil. (Die Idee war nicht unsere, aber wir waren die
 einzigen, die wirklich an der Umsetzung interessiert waren. Daher wurde es nach 
-einiger Zeit von uns eingestellt)
+einiger Zeit aber von uns eingestellt)
+
+Unter UML-Projekt findet sich eine Übung aus meiner Umschulung zur Umsetzung 
+einer Beschreibung in UML und dann Code. Die vorliegende Version ist jene, 
+welche ich innerhalb der vorgesehenen Zeit erreichte. Sie ist daher nicht perfekt,
+aber eine ehrliche Repräsentation meiner Leistung innerhalb der geforderten Zeit.
 
 Weitere Beispiele zu meinem Kenntnisstand kann man auch unter
 https://www.codewars.com/users/Kraehenkind sehen
